@@ -1,0 +1,6 @@
+scikit-learn==1.1.2
+xgboost==1.6.2
+numpy
+pandas
+Flask==2.0.0
+gunicorn
