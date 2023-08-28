@@ -6,5 +6,6 @@ Welcome to my Data Science Portfolio repository! This repository showcases my sk
  3. Utilizing Apache Airflow for workflow automation.
  4. Building Deep Neural Network for Time Series Forecasting
  5. Leverage OpenCV and Tensorflow to perform Object Detection.
+ 6. Deploy Machine Learning model with Flask
 
 Additionally, I possess an EFL (English as a Foreign Language) certificate that demonstrates my proficiency in the English language.
